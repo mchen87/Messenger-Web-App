@@ -6,6 +6,7 @@ import { getFirestore } from 'firebase/firestore';
 const firebaseConfig = {
   apiKey: "AIzaSyBvtTdOjKjTSwsHin6xe13mmAhZKTarP8c",
   authDomain: "messengerapp-820b6.firebaseapp.com",
+  databaseURL: "https://messengerapp-820b6-default-rtdb.firebaseio.com",
   projectId: "messengerapp-820b6",
   storageBucket: "messengerapp-820b6.appspot.com",
   messagingSenderId: "278660051062",
